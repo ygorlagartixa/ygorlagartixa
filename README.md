@@ -1,16 +1,40 @@
-## Hi there 👋
+# Ygor Lagartixa
 
-<!--
-**ygorlagartixa/ygorlagartixa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linux 🐧 • Cybersecurity 🔒 • Programming 🖥️ • Networking 🌐
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- Systems Analysis and Development student
+- Focused on Linux, cybersecurity and development
+- Building practical projects and labs
+- Interested in open source and networking
+
+---
+
+## Stack
+
+- Linux
+- Bash
+- Duckyscript
+- Networking
+- Git/GitHub
+- Cybersecurity Fundamentals
+
+---
+
+## Current Focus
+
+- Linux environments
+- Cybersecurity labs
+- Automation and scripting
+- Academic projects
+
+---
+
+## Contact
+
+- LinkedIn
+- Mastodon
